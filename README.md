@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 6 – CHARACTERISTICS OF LVDT
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Mohamed Faheem M | **Reg. No.:** |26010319 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 24-11-2026 | **Batch / Section:** |  26ODJ150|
 
 ---
 
@@ -47,7 +47,9 @@ In practice, a small residual voltage is observed at the null position due to ca
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the LVDT construction / circuit diagram here ]*
+<img width="784" height="469" alt="image" src="https://github.com/user-attachments/assets/39cc5c82-7ade-418d-8b03-6351d1b88e47" />
+<img width="1041" height="620" alt="image" src="https://github.com/user-attachments/assets/82354842-0ea2-45c4-9772-11b700176fbb" />
+
 
 **Figure 1:** LVDT – construction and circuit diagram
 
@@ -57,50 +59,19 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### A. Positive displacement of core
 
-*[ Paste the Virtual Lab screenshot – positive displacement ]*
-
+<img width="346" height="583" alt="image" src="https://github.com/user-attachments/assets/bac18320-b376-4689-b398-8e4d90bdbecc" />
 **Figure 2:** Virtual Lab – positive displacement of core
 
 ### B. Negative displacement of core
 
-*[ Paste the Virtual Lab screenshot – negative displacement ]*
+<img width="347" height="610" alt="image" src="https://github.com/user-attachments/assets/00b38047-1cc1-457b-9104-9880f4310f3c" />
 
 **Figure 3:** Virtual Lab – negative displacement of core
 
 ## OBSERVATION TABLE
 
-**Input voltage Vin = ______ V      Frequency f = ______ Hz      Null voltage = ______ V**
 
-### A. Positive displacement of core
-
-| S. No. | Displacement x (mm) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
-
-### B. Negative displacement of core
-
-| S. No. | Displacement x (mm) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
-
+<img width="2048" height="540" alt="image" src="https://github.com/user-attachments/assets/5575fa88-ec42-45c4-9603-b7bdf6262780" />
 ## FORMULA
 
 - **Sensitivity S = ΔVo / Δx (V/mm)**
@@ -109,9 +80,11 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ## MODEL GRAPH
 
+<img width="837" height="1214" alt="image" src="https://github.com/user-attachments/assets/c64d10e1-8ac0-4c30-a138-ba9b5025c828" />
+
 ### Displacement vs output voltage (positive and negative directions)
 
-*[ Paste / draw the displacement vs output voltage graph here ]*
+<img width="1212" height="1280" alt="image" src="https://github.com/user-attachments/assets/477a0fa5-e2ec-40b1-907c-74b1846a1890" />
 
 **Figure 4:** LVDT characteristics
 
